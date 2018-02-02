@@ -36,7 +36,7 @@ public class Client {
 					mResponse = mReader.readLine();
 					System.out.println(mResponse);
 				}
-			} while (!mString.equalsIgnoreCase("EXIT"));
+			} while (!mString.equals("exit"));
 			
 		} catch (UnknownHostException e) {
 			System.out.println("Host Error: " + e.getMessage());
