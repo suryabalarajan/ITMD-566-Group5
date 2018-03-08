@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE payment SYSTEM "payment.dtd">
+<payment>
+	<Payment PaymentID="P101">
+		<TransactionID>TRNX101</TransactionID>
+		<OrderID>ORD101</OrderID>
+		<PaymentMethod>Credit</PaymentMethod>
+		<PaymentAmount>2600</PaymentAmount>
+		<PaymentDate>2015-03-18</PaymentDate>
+		<CheckNumber>131</CheckNumber>
+		<CreditCard>Yes</CreditCard>
+		<CreditCardNumber>xxxx-xxxx-xxxx-5281</CreditCardNumber>
+		<CardholdersName>John Malfoy</CardholdersName>
+		<CreditCardExpDate>11/23</CreditCardExpDate>
+		<CreditCardAuthorizationNumber>6335</CreditCardAuthorizationNumber>
+	</Payment>
+	<Payment PaymentID="P102">
+		<TransactionID>TRNX102</TransactionID>
+		<OrderID>ORD102</OrderID>
+		<PaymentMethod>Debit</PaymentMethod>
+		<PaymentAmount>1570</PaymentAmount>
+		<PaymentDate>2016-06-19</PaymentDate>
+		<CheckNumber>182</CheckNumber>
+		<CreditCard>No</CreditCard>
+		<CreditCardNumber>xxxx-xxxx-xxxx-2521</CreditCardNumber>
+		<CardholdersName>Paul john</CardholdersName>
+		<CreditCardExpDate>11/24</CreditCardExpDate>
+		<CreditCardAuthorizationNumber>2041</CreditCardAuthorizationNumber>
+	</Payment>
+	<Payment PaymentID="P103">
+		<TransactionID>TRNX103</TransactionID>
+		<OrderID>ORD103</OrderID>
+		<PaymentMethod>Credit</PaymentMethod>
+		<PaymentAmount>1900</PaymentAmount>
+		<PaymentDate>2016-04-02</PaymentDate>
+		<CheckNumber>263</CheckNumber>
+		<CreditCard>Yes</CreditCard>
+		<CreditCardNumber>xxxx-xxxx-xxxx-1583</CreditCardNumber>
+		<CardholdersName>John Sheldon</CardholdersName>
+		<CreditCardExpDate>09/22</CreditCardExpDate>
+		<CreditCardAuthorizationNumber>2745</CreditCardAuthorizationNumber>
+	</Payment>
+</payment>

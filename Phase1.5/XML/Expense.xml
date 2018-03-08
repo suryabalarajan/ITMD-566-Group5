@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Expense SYSTEM "expense.dtd">
+<expense>
+	<Expense ExpenseID="E101">
+		<EmployeeID>EP101</EmployeeID>
+		<ExpenseType>recurring</ExpenseType>
+		<PurposeofExpense>Gas</PurposeofExpense>
+		<AmountSpent>750</AmountSpent>
+		<Description>vehiclegas</Description>
+		<DatePurchased>06/04/2017</DatePurchased>
+		<DateSubmitted>06/09/2017</DateSubmitted>
+		<AdvanceAmount>350</AdvanceAmount>
+		<PaymentMethod>Cash</PaymentMethod>
+</Expense>
+	<Expense ExpenseID="E102">
+		<EmployeeID>EP102</EmployeeID>
+		<ExpenseType>recurring</ExpenseType>
+		<PurposeofExpense>onetime</PurposeofExpense>
+		<AmountSpent>6500</AmountSpent>
+		<Description>AutoGas</Description>
+		<DatePurchased>07/26/2016</DatePurchased>
+		<DateSubmitted>07/03/2016</DateSubmitted>
+		<AdvanceAmount>2500</AdvanceAmount>
+		<PaymentMethod>Cash</PaymentMethod>
+	</Expense>
+	<Expense ExpenseID="E103">
+		<EmployeeID>EP103</EmployeeID>
+		<ExpenseType>Fuel</ExpenseType>
+		<PurposeofExpense>pay</PurposeofExpense>
+		<AmountSpent>4500</AmountSpent>
+		<Description>Salary</Description>
+		<DatePurchased>10/11/2015</DatePurchased>
+		<DateSubmitted>10/27/2015</DateSubmitted>
+		<AdvanceAmount>4000</AdvanceAmount>
+		<PaymentMethod>Card</PaymentMethod>
+	</Expense>
+</expense>

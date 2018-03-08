@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE customer SYSTEM "customer.dtd">
+<customer>
+	<Customer CustomerID="C101">
+		<CustomerTitle>Mr</CustomerTitle>
+		<BusinessName>Jashwanth Y</BusinessName>
+		<LocationID>L101</LocationID>
+		<BillingAddress>Wash Street</BillingAddress>
+		<City>Spring Field</City>
+		<State>IL</State>
+		<PostalCode>50102</PostalCode>
+		<Country>USA</Country>
+		<PhoneNumber>3313079248</PhoneNumber>
+		<CellNumber>3313079249</CellNumber>
+		<OtherNumber>3313079250</OtherNumber>
+		<FaxNumber>31313079250</FaxNumber>
+		<EmailAddress>jash.y@gmail.com</EmailAddress>
+		<CompanyName>BlueCrossBank</CompanyName>
+		<ContactName>Jash</ContactName>
+		<AlternateContactName>Jash</AlternateContactName>
+		<DateEntered>2015-12-05</DateEntered>
+		<CustomerType>Private</CustomerType>
+	</Customer>
+	<Customer CustomerID="C102">
+		<CustomerTitle>Ms</CustomerTitle>
+		<BusinessName>Surya B</BusinessName>
+		<LocationID>L102</LocationID>
+		<BillingAddress>Clark Street</BillingAddress>
+		<City>Dallas</City>
+		<State>Texas</State>
+		<PostalCode>51616</PostalCode>
+		<Country>USA</Country>
+		<PhoneNumber>3122449872</PhoneNumber>
+		<CellNumber>3122549776</CellNumber>
+		<OtherNumber>3132259896</OtherNumber>
+		<FaxNumber>3132549776</FaxNumber>
+		<EmailAddress>surya.b@gmail.com</EmailAddress>
+		<CompanyName>BOFABank</CompanyName>
+		<ContactName>Surya</ContactName>
+		<AlternateContactName>Surya</AlternateContactName>
+		<DateEntered>2016-03-16</DateEntered>
+		<CustomerType>Public</CustomerType>
+	</Customer>
+</customer>

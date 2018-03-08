@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE invoice SYSTEM "invoice.dtd">
+<invoice>
+	<Invoice InvoiceID="INV101">
+		<InvoiceDate>2016-05-21</InvoiceDate>
+		<DueDate>2016-05-21</DueDate>
+		<OrderID>ORD101</OrderID>
+		<customerID>C101</customerID>
+		<OrderTotalAmount>2500</OrderTotalAmount>
+	</Invoice>
+	<Invoice InvoiceID="INV102">
+		<InvoiceDate>2016-07-21</InvoiceDate>
+		<DueDate>2016-06-21</DueDate>
+		<OrderID>ORD102</OrderID>
+		<customerID>C102</customerID>
+		<OrderTotalAmount>4500</OrderTotalAmount>
+	</Invoice>
+	<Invoice InvoiceID="INV103">
+		<InvoiceDate>2016-07-21</InvoiceDate>
+		<DueDate>2016-07-21</DueDate>
+		<OrderID>ORD103</OrderID>
+		<customerID>C103</customerID>
+		<OrderTotalAmount>3000</OrderTotalAmount>
+	</Invoice>
+</invoice>

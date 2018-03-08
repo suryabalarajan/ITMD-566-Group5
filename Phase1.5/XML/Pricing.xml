@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pricing SYSTEM "pricing.dtd">
+<pricing>
+	<Pricing priceID="P101">
+		<locationIDFrom>121</locationIDFrom>
+		<locationIDTo>212</locationIDTo>
+		<price>2292</price>
+		<locationCodeFrom>2841</locationCodeFrom>
+		<locationCodeTo>4841</locationCodeTo>
+		<locationNameFrom>Chicago</locationNameFrom>
+		<locationNameTo>Naperville</locationNameTo>
+		<CustomerID>C101</CustomerID>
+		<type>price0</type>
+		<type1>Tx-price0</type1>
+	</Pricing>
+	<Pricing priceID="P102">
+		<locationIDFrom>111</locationIDFrom>
+		<locationIDTo>222</locationIDTo>
+		<price>7141</price>
+		<locationCodeFrom>3675</locationCodeFrom>
+		<locationCodeTo>6334</locationCodeTo>
+		<locationNameFrom>Aurora</locationNameFrom>
+		<locationNameTo>Chester</locationNameTo>
+		<CustomerID>C102</CustomerID>
+		<type>price1</type>
+		<type1>Tx-price0</type1>
+	</Pricing>
+	<Pricing priceID="P103">
+		<locationIDFrom>221</locationIDFrom>
+		<locationIDTo>312</locationIDTo>
+		<price>1841</price>
+		<locationCodeFrom>2147</locationCodeFrom>
+		<locationCodeTo>5221</locationCodeTo>
+		<locationNameFrom>Chicago</locationNameFrom>
+		<locationNameTo>Westmont</locationNameTo>
+		<CustomerID>C103</CustomerID>
+		<type>price2</type>
+		<type1>Tx-price2</type1>
+	</Pricing>
+</pricing>

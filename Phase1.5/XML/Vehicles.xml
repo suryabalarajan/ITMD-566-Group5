@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Car SYSTEM "Car.dtd">
+<vehicle>
+<Vehicle VehicleNo="T101">
+	<Make>Jeep</Make>
+	<Year>1994</Year>
+	<Model>Model W</Model>
+	<LicensePlateNo>LPN171</LicensePlateNo>
+	<EmployeeID>EP101</EmployeeID>
+	<Color>Green</Color>
+	<VIN>1A2O332D792E56V101</VIN>
+</Vehicle>
+<Vehicle VehicleNo="T102">
+	<Make>Renault</Make>
+	<Year>2001</Year>
+	<Model>Model W</Model>
+	<LicensePlateNo>LPN172</LicensePlateNo>
+	<EmployeeID>EP102</EmployeeID>
+	<Color>Grey</Color>
+	<VIN>1A2Y332D592E57V102</VIN>
+</Vehicle>
+<Vehicle VehicleNo="T103">
+	<Make>Audi</Make>
+	<Year>2007</Year>
+	<Model>Model X</Model>
+	<LicensePlateNo>LPN173</LicensePlateNo>
+	<EmployeeID>EP103</EmployeeID>
+	<Color>Black</Color>
+	<VIN>1A2W332D093E55P103</VIN>
+</Vehicle>
+</vehicle>
