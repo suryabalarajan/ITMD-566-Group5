@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE employee SYSTEM "employee.dtd">
 <employee>
 	<Employee EmployeeID="EP101">
-	<FirstName>john</FirstName>
-	<LastName>Clinton</LastName>
-	<Email>jclinton@gmail.com</Email>
-	<Extension>2539</Extension>
-	<HomePhone>9441214838</HomePhone>
-	<CellPhone>9490283535</CellPhone>
-	<JobTitle>Manager</JobTitle>
-	<SocialSecurityNumber>5249510512</SocialSecurityNumber>
-	<DriverLicenseNumber>2962</DriverLicenseNumber>
-	<Address>216F</Address>
-	<City>Springfield</City>
-	<State>Illinois</State>
-	<PostalCode>69616</PostalCode>
-	<BirthDate>1981/08/16</BirthDate>
-	<DateHired>2014/11/26</DateHired>
-	<Salary>56030</Salary>
-	<Notes>anxy</Notes>
-</Employee>
+		<FirstName>john</FirstName>
+		<LastName>Clinton</LastName>
+		<Email>jclinton@gmail.com</Email>
+		<Extension>2539</Extension>
+		<HomePhone>9441214838</HomePhone>
+		<CellPhone>9490283535</CellPhone>
+		<JobTitle>Manager</JobTitle>
+		<SocialSecurityNumber>5249510512</SocialSecurityNumber>
+		<DriverLicenseNumber>2962</DriverLicenseNumber>
+		<Address>216F</Address>
+		<City>Springfield</City>
+		<State>Illinois</State>
+		<PostalCode>69616</PostalCode>
+		<BirthDate>1981/08/16</BirthDate>
+		<DateHired>2014/11/26</DateHired>
+		<Salary>56030</Salary>
+		<Notes>anxy</Notes>
+	</Employee>
 	<Employee EmployeeID="EP102">
 		<FirstName>Paul</FirstName>
 		<LastName>Ryan</LastName>
