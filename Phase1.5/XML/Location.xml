@@ -1,52 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE location SYSTEM "location.dtd">
 <location>
 	<Location LocationID="L101">
 		<locName>randolf</locName>
-	    <locationCode>LC101</locationCode>
-	    <isActive>Yes</isActive>
-	    <CustomerID>C101</CustomerID>
-	    <addressstreet1>Predential</addressstreet1>
-	    <addressstreet2>Apartments</addressstreet2>
-	    <city>Chicago</city>
-	    <state>Illinois</state>
-	    <postalCode>69616</postalCode>
-	    <region>North</region>
-	    <location_contact_name>PA</location_contact_name>
-	    <locPhone>984644921</locPhone>
-	    <locFaxNumber>143476785</locFaxNumber>
-	    <locEmail>apartPra@gmail.com</locEmail>
+		<locationCode>LC101</locationCode>
+		<isActive>Yes</isActive>
+		<CustomerID>C101</CustomerID>
+		<addressstreet1>Predential</addressstreet1>
+		<addressstreet2>Apartments</addressstreet2>
+		<city>Chicago</city>
+		<state>Illinois</state>
+		<postalCode>69616</postalCode>
+		<region>North</region>
+		<location_contact_name>PA</location_contact_name>
+		<locPhone>984644921</locPhone>
+		<locFaxNumber>143476785</locFaxNumber>
+		<locEmail>apartPra@gmail.com</locEmail>
 	</Location>
 	<Location locationID="L102">
 		<locName>Clinton</locName>
-	    <locationCode>LC102</locationCode>
-	    <isActive>No</isActive>
-	    <CustomerID>C102</CustomerID>
-	    <addressstreet1>NorthCommans</addressstreet1>
-	    <addressstreet2>NorthStateStreet</addressstreet2>
-	    <city>Chicago</city>
-	    <state>Illinois</state>
-	    <postalCode>60627</postalCode>
-	    <region>North</region>
-	    <location_contact_name>AB</location_contact_name>
-	    <locPhone>937658312</locPhone>
-	    <locFaxNumber>163358781</locFaxNumber>
-	    <locEmail>ncommons@gmail.com</locEmail>
+		<locationCode>LC102</locationCode>
+		<isActive>No</isActive>
+		<CustomerID>C102</CustomerID>
+		<addressstreet1>NorthCommans</addressstreet1>
+		<addressstreet2>NorthStateStreet</addressstreet2>
+		<city>Chicago</city>
+		<state>Illinois</state>
+		<postalCode>60627</postalCode>
+		<region>North</region>
+		<location_contact_name>AB</location_contact_name>
+		<locPhone>937658312</locPhone>
+		<locFaxNumber>163358781</locFaxNumber>
+		<locEmail>ncommons@gmail.com</locEmail>
 	</Location>
 	<Location locationID="L103">
 		<locName>SouthWaters</locName>
-	    <locationCode>LC103</locationCode>
-	    <isActive>Yes</isActive>
-	    <CustomerID>C103</CustomerID>
-	    <addressstreet1>North</addressstreet1>
-	    <addressstreet2>Medows</addressstreet2>
-	    <city>Chaster</city>
-	    <state>Illinois</state>
-	    <postalCode>60714</postalCode>
-	    <region>East</region>
-	    <location_contact_name>NM</location_contact_name>
-	    <locPhone>987644363</locPhone>
-	    <locFaxNumber>153466755</locFaxNumber>
-	    <locEmail>Nmedows@gmail.com</locEmail>
+		<locationCode>LC103</locationCode>
+		<isActive>Yes</isActive>
+		<CustomerID>C103</CustomerID>
+		<addressstreet1>North</addressstreet1>
+		<addressstreet2>Medows</addressstreet2>
+		<city>Chaster</city>
+		<state>Illinois</state>
+		<postalCode>60714</postalCode>
+		<region>East</region>
+		<location_contact_name>NM</location_contact_name>
+		<locPhone>987644363</locPhone>
+		<locFaxNumber>153466755</locFaxNumber>
+		<locEmail>Nmedows@gmail.com</locEmail>
 	</Location>
 </location>
