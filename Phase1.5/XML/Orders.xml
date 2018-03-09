@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE order SYSTEM "order.dtd">
 <order>
 	<Order OrderID="ORD101">
 		<OrderDate>2016-13-26</OrderDate>
