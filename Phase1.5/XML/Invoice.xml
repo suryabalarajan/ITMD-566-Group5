@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE invoice SYSTEM "invoice.dtd">
 <invoice>
 	<Invoice InvoiceID="INV101">
 		<InvoiceDate>2016-05-21</InvoiceDate>
