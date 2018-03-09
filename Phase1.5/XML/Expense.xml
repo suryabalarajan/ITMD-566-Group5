@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE Expense SYSTEM "expense.dtd">
 <expense>
 	<Expense ExpenseID="E101">
 		<EmployeeID>EP101</EmployeeID>
